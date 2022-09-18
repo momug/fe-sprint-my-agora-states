@@ -8,7 +8,7 @@
     border-style: solid;
     border-color: black;
     display:flex;
-    margin: 1%;
+    margin: 2%;
 }
 .discussion__container div:last-child{
     margin-left: auto;
